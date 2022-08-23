@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="badges">
-  <a href="www.linkedin.com/in/arda-savas">
+  <a href="www.linkedin.com/in/arda-savaş-0a17431b2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
